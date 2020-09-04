@@ -1,0 +1,137 @@
+
+.areaConteudo {
+	max-width: 800px!important;
+	margin: auto!important;
+	padding: 10px!important;
+}
+.areaSessionContato {
+	max-width: 800px!important;
+	margin: auto!important;
+	padding: 10px!important;
+}
+.textInfo {
+	text-indent: 20px!important;
+	margin-left: 25px!important;
+	font-style: unset!important;
+	font-size:small!important;
+	font-weight: 500!important;
+}
+.areaFormAdicionar {
+	max-width: 800px!important;
+	margin: auto!important;
+	padding: 10px!important;
+}
+.borderInput {
+	border: 1px solid #c9c9c9!important;
+
+}
+label {
+	font-style:!important;
+	font-size:medium;!important;
+	font-weight: 600!important;
+	font-language-override: unset;
+	text-decoration-style: inherit;
+}
+.alertSuccess {
+	border: 1px solid #c9c9c9!important;
+	background-color: green!important;
+	border-color: green!important;
+	transition: 0.3s all linear!important;
+	box-shadow: 1px 1px 1px #c9c9c9!important;
+	font-style: unset!important;
+	font-size: medium!important;
+}
+.alertDanger {
+	border: 1px solid #c9c9c9!important;
+	background-color: red!important;
+	border-color: red!important;
+	transition: 0.3s all linear!important;
+	box-shadow: 1px 1px 1px #c9c9c9!important;
+	font-style: unset!important;
+	font-size: medium!important;
+	text-indent: 20px!important;
+}
+a {
+	text-decoration: none!important;
+	font-style: unset!important;
+	font-size: small!important;
+	font-weight: 500!important;
+}
+a:hover {
+	color: #000099!important;
+	border-bottom: 1px solid #054054!important;
+	border-collapse: show!important;
+	text-orientation: center!important;
+	font-stretch: oblique!important;
+	flex-flow: ltr!important;
+}
+.areaOrdenacaoResultados {
+	max-width: 1000px!important;
+	margin: auto!important;
+	padding: 10px!important;
+}
+.areaListaContatos {
+	max-width: 1200px!important;
+	margin: auto!important;
+	padding: 10px!important;
+}
+.areaFormAtualizar {
+	max-width: 800px!important;
+	margin: auto!important;
+	padding: 10px!important;
+}
+.areaConteudoLogin {
+	width: 100%!important;
+	max-width: 600px!important;
+	margin: auto!important;
+	padding: 10px!important;
+}
+.areaFormLogin {
+	width: 100%!important;
+	max-width: 600px!important;
+	margin: auto!important;
+	padding: 10px!important;
+	position: relative!important;
+}
+.areaCadastroUsuario {
+	width: 100%!important;
+	max-width: 600px!important;
+	margin: auto!important;
+	padding: 10px!important;
+	text-align: center!important;
+	padding-left: 20px!important;
+	padding-right: 20px!important;
+	font-size: xx-small!important;
+}
+.areaFooterLogin {
+	width: 100%!important;
+	max-width: 600px!important;
+	margin: auto!important;
+	margin-top: 10px!important;
+	padding: 10px!important;
+	position: relative!important;
+	text-align: center!important;
+	font-style: italic!important;
+	font-size: small!important;
+	color: #101010!important;
+	font-weight: 500!important;
+}
+.areaConteudoLoginCadastroUsuario {
+	width: 100%!important;
+	max-width: 600px!important;
+	margin: auto!important;
+	padding: 10px!important;
+}
+.areaFormCadastroUsuarioLogin {
+	width: 100%!important;
+	max-width: 600px!important;
+	margin: auto!important;
+	padding: 10px!important;
+	position: relative!important;
+}
+.FontUsuario {
+	ext-decoration: none!important;
+	font-style: unset!important;
+	font-size: small!important;
+	font-weight: 500!important;
+}
